@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewPager Java</string>
+    <string name="green">Green</string>
+    <string name="blue">BLUE</string>
+    <string name="red">RED</string>
+</resources>
